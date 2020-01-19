@@ -1,8 +1,9 @@
 # UV-and-Temperature-Monitoring-System
-## Mô tả hệ thống:
+
+## Simulate the hole system:
 ![3333](https://user-images.githubusercontent.com/48848418/70455571-1d4f8000-1adf-11ea-9641-ba2a186ded32.png)
 
-### Chi tiết từng Module:
+### Each module in detail:
 #### Module Outdoor:
 
 ![module outdoor](https://user-images.githubusercontent.com/48848418/70455715-58ea4a00-1adf-11ea-94aa-a083b278771b.png)
@@ -12,7 +13,7 @@
 ![module indoor](https://user-images.githubusercontent.com/48848418/70455766-70c1ce00-1adf-11ea-9c0f-46687cc2fbb6.png)
 
 
-### Hình ảnh thực tế sản phẩm:
+### Pictures of reality product:
 ![IMG_6986](https://user-images.githubusercontent.com/48848418/70455841-8e8f3300-1adf-11ea-8632-e1e1dce8e62e.JPG)
 
 ![IMG_6990](https://user-images.githubusercontent.com/48848418/70455848-9222ba00-1adf-11ea-9e63-69e141714b6f.JPG)
